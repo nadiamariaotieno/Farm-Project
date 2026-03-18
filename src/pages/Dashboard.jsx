@@ -196,7 +196,7 @@ const Dashboard = () => {
                 <YAxis />
                 <Tooltip />
                 <Bar dataKey="revenue" fill="#2f5d34" />
-                <Bar dataKey="expenses" fill="#8b5e3c" />
+                <Bar dataKey="expenses" fill="#8B0000" />
               </BarChart>
             </ResponsiveContainer>
           </Paper>
