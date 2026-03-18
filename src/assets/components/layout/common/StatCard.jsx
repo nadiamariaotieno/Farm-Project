@@ -16,7 +16,7 @@ const StatCard = ({ title, value, icon }) => {
         },
       }}
     >
-      <Box sx={{ mr: 3, color: "#d3d3d3" }}>
+      <Box sx={{ mr: 3, color: "#a6a4a4" }}>
         {icon}
       </Box>
 
