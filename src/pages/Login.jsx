@@ -85,3 +85,5 @@ const Login = () => {
 
 export default Login;
 
+//Who has access to this login page?
+//Only the admin and the users with the role of "admin" can access this page.
