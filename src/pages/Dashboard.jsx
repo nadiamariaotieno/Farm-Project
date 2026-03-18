@@ -144,7 +144,7 @@ const Dashboard = () => {
                 <Line
                   type="monotone"
                   dataKey="sick"
-                  stroke="#8b5e3c"
+                  stroke="#8B0000"
                   strokeWidth={3}
                   dot={{ r: 6 }}
                   activeDot={{ r: 8 }}

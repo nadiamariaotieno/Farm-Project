@@ -8,7 +8,7 @@ const StatCard = ({ title, value, icon }) => {
         alignItems: "center",
         p: 3,
         height: 140,
-        borderLeft: "8px solid #8b5e3c",
+        borderLeft: "8px solid #8B0000",
         transition: "0.3s",
         "&:hover": {
           transform: "translateY(-6px)",
