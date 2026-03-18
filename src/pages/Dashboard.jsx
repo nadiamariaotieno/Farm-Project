@@ -121,7 +121,7 @@ const Dashboard = () => {
                 <Tooltip />
                 <Bar
                   dataKey="value"
-                  fill="#2f5d34"
+                  fill="#d3d3d3"
                   radius={[8, 8, 0, 0]}
                   animationDuration={800}
                 />
@@ -174,7 +174,7 @@ const Dashboard = () => {
                 <Line
                   type="monotone"
                   dataKey="revenue"
-                  stroke="#2f5d34"
+                  stroke="#d3d3d3"
                   strokeWidth={3}
                   dot={{ r: 6 }}
                   animationDuration={800}
@@ -195,7 +195,7 @@ const Dashboard = () => {
                 <XAxis dataKey="month" />
                 <YAxis />
                 <Tooltip />
-                <Bar dataKey="revenue" fill="#2f5d34" />
+                <Bar dataKey="revenue" fill="#d3d3d3" />
                 <Bar dataKey="expenses" fill="#8B0000" />
               </BarChart>
             </ResponsiveContainer>
